@@ -1,0 +1,41 @@
+h1
+{
+font-size: 3rem;
+color:#005596;
+}
+h2
+{
+color:#005596;
+}
+h3
+{
+color:#005596;
+}
+i
+{
+color:#005596;
+margin-right: 1rem
+}
+body
+{
+background-color: beige;
+color: black;
+font-family: Arial, Helvetica, sans-serif;
+}
+footer
+{
+text-align: center;
+}
+li
+{
+margin-bottom: 0.25rem;
+}
+a
+{
+color:blue;
+text-decoration:none;
+}
+a:hover
+{
+color:red;
+}
